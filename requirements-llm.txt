@@ -634,7 +634,7 @@ typing-extensions==4.12.2
     #   sqlalchemy
     #   torch
     #   typer
-tzdata==2025.2
+tzdata==2025.3
     # via
     #   -r ./requirements.txt
     #   pandas
