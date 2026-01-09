@@ -679,7 +679,7 @@ zalgolib==0.2.2
     # via garak
 zipp==3.21.0
     # via importlib-metadata
-zope-interface==7.2
+zope-interface==8.2
     # via datetime
 zstandard==0.23.0
     # via langsmith
